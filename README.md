@@ -1,4 +1,9 @@
-[Watch the demo video here--->](https://drive.google.com/drive/u/0/folders/1hy0UWr-5cNdlcmiNqGrk-2P6hktUfQLM)
+
+
+This project includes a machine downtime prediction API. You can find the demo video in the folder below:
+
+[Visit the demo folder on Google Drive](https://drive.google.com/drive/u/0/folders/1hy0UWr-5cNdlcmiNqGrk-2P6hktUfQLM)
+
 
 
 
