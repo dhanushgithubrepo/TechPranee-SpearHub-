@@ -90,28 +90,11 @@ This endpoint predicts whether a machine will experience downtime based on the i
 - `Downtime`: Indicates if the machine is predicted to have downtime ("Yes"/"No").
 - `Confidence`: The confidence score of the prediction, which is a value between 0 and 1.
 
----
 
-## Evaluation Criteria
 
-### 1. **Functionality**:
-- The endpoints should work as expected.
-- The `/predict` endpoint should return valid downtime predictions.
 
-### 2. **Relevance**:
-- The model should provide meaningful predictions for manufacturing use cases, based on inputs like temperature and runtime.
 
-### 3. **Code Quality**:
-- The code should be clear, well-structured, and easy to follow.
-
-### 4. **Delivery**:
-- The project should be easy to set up and test in minimal time.
-
----
-
-## Expected Deliverables
-
-1. **GitHub Repository** containing:
+1. **GitHub Repository** containins:
    - The **codebase** for the API.
    - A **sample dataset** (`manufacturing_data.csv`).
    - The **trained model** (`downtime_model.pkl`).
