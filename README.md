@@ -15,7 +15,7 @@ This is a RESTful API that predicts machine downtime based on the temperature an
 └── README.md                   # Project documentation
 ```
 
- Setup Instructions
+### Setup Instructions
 
  1. Clone the Repository
 
@@ -121,11 +121,7 @@ This endpoint predicts whether a machine will experience downtime based on the i
 
 ---
 
-## License
 
-MIT License (or any other license you prefer)
-
----
 
 ### **requirements.txt**
 Make sure to create a `requirements.txt` file with the dependencies:
@@ -152,17 +148,6 @@ To set up this project in a GitHub repository:
    git push -u origin master
    ```
 
----
 
-This README provides all the necessary instructions for setting up, running, and testing your machine downtime prediction API locally.
 
-Feel free to modify it based on your specific requirements!
-```
 
-### How to Use:
-1. Copy the entire content above.
-2. Create a new file in your repository called `README.md`.
-3. Paste the content into this file.
-4. Commit and push it to GitHub.
-
-Let me know if you need further assistance!
